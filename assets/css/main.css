@@ -1960,7 +1960,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #161533;
+			background-color: #8988ad;
 		}
 
 		input[type="button"]:active,
